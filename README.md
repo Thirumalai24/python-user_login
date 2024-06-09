@@ -14,16 +14,12 @@ Before running the application, ensure you have the following:
 - Environment variables defined in .env (see .env.example)
 
 ## Usage
-### 1. Clone the Repository
-```
-git clone https://github.com/yourusername/YourProject.git
-```
-
-### 2. Install Dependencies
+- Clone the Repository
+- Install Dependencies
 ```
 pip install -r requirements.txt
 ```
-### 3. Run the Application
+- Run the Application
 ```
 python main.py
 ```
