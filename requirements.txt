@@ -1,0 +1,11 @@
+fastapi
+pydantic
+pydantic_core
+python-abc
+SQLAlchemy
+python-dotenv
+pymongo
+motor
+asgi-lifespan
+bcrypt
+jinja2
